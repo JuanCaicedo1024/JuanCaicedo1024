@@ -60,17 +60,17 @@
 
 ### Contact me:
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-   <a href="https://github.com/KasRoudra" target="_blank">
-      <img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github">
+   <a href="https://github.com/JuanCaicedo1024" target="_blank">
+      <img src="https://img.shields.io/badge/Github-JuanCaicedo-green?style=for-the-badge&logo=github">
    </a>
-   <a href="https://facebook.com/KasRoudra" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-KasRoudra-blue?style=for-the-badge&logo=linkedin">
+   <a href="https://www.linkedin.com/in/sebastian-caicedo-1a728a31b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Juancaicedo-blue?style=for-the-badge&logo=linkedin">
    </a>
-   <a href="https://m.me/KasRoudra" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-KasRoudra-red?style=for-the-badge&logo=instagram">
+   <a href="https://www.instagram.com/sebastian_caicedo10?igsh=dnN6eGdyaW02cmRs" target="_blank">
+      <img src="https://img.shields.io/badge/instagram-JuanCaicedo-red?style=for-the-badge&logo=instagram">
    </a>
-   <a href="mailto:kasroudrakrd@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail">
+   <a href="mailto:juancaicedodev@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-juancaicedodev@gmail.com-teal?style=for-the-badge&logo=gmail">
    </a>
 </div>
 
