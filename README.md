@@ -27,11 +27,11 @@
   <a href="https://github.com/JuanCaicedo1024">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanCaicedo1024&show_icons=true&hide_border=true&bg_color=d679e9&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true"/>
   </a>
-
-
+  
   <a href="https://github.com/JuanCaicedo1024">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanCaicedo1024&show_icons=true&locale=en&layout=compact&bg_color=d679e9&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanCaicedo1024&layout=compact&langs_count=8&theme=algolia&bg_color=d679e9&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
   </a>
+
 </div>
 
 
